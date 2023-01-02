@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+    }
+
+    h1 {
+       text-transform: capitalize;
+        text-decoration:underline;
+        color: rgb(214, 13, 13);
+    }
+
+       
